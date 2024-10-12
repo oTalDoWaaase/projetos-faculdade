@@ -9,4 +9,4 @@ Para executar o projeto, você precisa ter o Python instalado. Basta executar o 
 - Interface gráfica simples e intuitiva.
 - Definição de tempo em segundos para contagem regressiva.
 
-![Imagem do Cronômetro](https://github.com/oTalDoWaaase/projetos-faculdade/blob/main/python.png)
+<img src="https://github.com/oTalDoWaaase/projetos-faculdade/blob/main/python.png" alt="Imagem do Cronômetro" width="250" style="border: 1px solid #ccc; padding: 5px;" />
