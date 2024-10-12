@@ -9,4 +9,4 @@ Para executar o projeto, você precisa ter o Python instalado. Basta executar o 
 - Interface gráfica intuitiva para realizar operações matemáticas básicas.
 - Operações disponíveis: soma, subtração, multiplicação e divisão.
 
-<img src="https://github.com/oTalDoWaaase/projetos-faculdade/blob/main/calc.png" alt="Imagem da Calculadora" width="250" style="border: 1px solid #ccc; padding: 5px;" />
+<img src="https://github.com/oTalDoWaaase/projetos-faculdade/blob/main/calc.png" alt="Imagem da Calculadora" width="300" style="border: 1px solid #ccc; padding: 5px;" />
